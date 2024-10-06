@@ -74,6 +74,8 @@ client.placeholder      #000000 #0c0c0c #000000 #000000   #0c0c0c
 
 client.background       #ffffff
 
+exec --no-startup-id redshift -P -O 2700
+
 ################################################################################################
 
 # Use Mouse+$mod to drag floating windows to their wanted position
